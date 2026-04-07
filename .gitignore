@@ -1,0 +1,5 @@
+.venv/
+results_deberta/
+data/*.csv
+*.pt
+*.safetensors
