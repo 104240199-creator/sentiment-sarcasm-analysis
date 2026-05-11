@@ -1,0 +1,2 @@
+method,accuracy,f1_score
+TF-IDF + Logistic Regression,0.847,0.8406
