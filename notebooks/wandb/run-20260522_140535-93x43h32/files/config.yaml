@@ -1,0 +1,75 @@
+_wandb:
+    value:
+        cli_version: 0.27.0
+        e:
+            rezlisidtjk9do1labwrnoio9e3pcnl0:
+                codePath: d:\sentiment and sarcasm analysis\notebooks\sarcasm.ipynb
+                codePathLocal: sarcasm.ipynb
+                cpu_count: 14
+                cpu_count_logical: 20
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "1000186310656"
+                        used: "231048167424"
+                email: 104240199@student.vgu.edu.vn
+                executable: d:\sentiment and sarcasm analysis\.venv\Scripts\python.exe
+                git:
+                    commit: 99ed5d6cbbe721f21396eef5e9fc31d834220fd9
+                    remote: https://github.com/104240199-creator/sentiment-sarcasm-analysis.git
+                gpu: NVIDIA GeForce RTX 4050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 2560
+                      memoryTotal: "6439305216"
+                      name: NVIDIA GeForce RTX 4050 Laptop GPU
+                      uuid: GPU-9f612b66-e8e1-674f-2322-d490b579c87a
+                host: LAPTOP-IDCER7FA
+                memory:
+                    total: "25463480320"
+                os: Windows-11-10.0.26200-SP0
+                program: d:\sentiment and sarcasm analysis\notebooks\sarcasm.ipynb
+                python: CPython 3.13.5
+                root: d:\sentiment and sarcasm analysis\notebooks
+                startedAt: "2026-05-22T07:05:35.971736Z"
+                writerId: rezlisidtjk9do1labwrnoio9e3pcnl0
+        m: []
+        python_version: 3.13.5
+        t:
+            "1":
+                - 5
+                - 53
+                - 105
+            "2":
+                - 1
+                - 5
+                - 53
+                - 105
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.5
+            "5": 0.27.0
+            "8":
+                - 1
+                - 3
+            "12": 0.27.0
+            "13": windows-amd64
+C:
+    value: 1
+max_features:
+    value: 10000
+model:
+    value: Logistic Regression
+ngram_range:
+    value:
+        - 1
+        - 2
+split:
+    value: 80-10-10
+task:
+    value: Sarcasm Detection
+vectorizer:
+    value: TF-IDF
