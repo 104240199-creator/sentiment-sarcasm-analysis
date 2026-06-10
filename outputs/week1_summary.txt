@@ -1,0 +1,37 @@
+Week 1 Summary
+===================
+
+Total samples: 25242
+Sentiment samples: 12601
+Sarcasm samples: 12641
+
+Task distribution:
+task
+Sarcasm      12641
+Sentiment    12601
+Name: count, dtype: int64
+
+Sentiment label distribution:
+label
+0    6355
+1    6246
+Name: count, dtype: int64
+
+Sarcasm label distribution:
+label
+0    10827
+1     1814
+Name: count, dtype: int64
+
+English variety distribution:
+variety
+en-IN    9472
+en-UK    8068
+en-AU    7702
+Name: count, dtype: int64
+
+Source distribution:
+source
+Reddit    12697
+Google    12545
+Name: count, dtype: int64

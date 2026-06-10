@@ -1,1 +1,0 @@
-{"columns":["Actual","Predicted","nPredictions"],"data":[["not_sarcastic","not_sarcastic",1308.0],["not_sarcastic","sarcastic",190.0],["sarcastic","not_sarcastic",211.0],["sarcastic","sarcastic",962.0]]}

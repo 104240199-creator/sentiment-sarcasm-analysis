@@ -1,0 +1,2 @@
+task,model,accuracy,macro_f1,macro_precision,macro_recall
+Sarcasm,BERT-base,0.8684314500197551,0.7087773855985571,0.7320645224445845,0.6919085746088365
