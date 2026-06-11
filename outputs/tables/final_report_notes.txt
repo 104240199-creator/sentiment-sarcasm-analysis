@@ -1,0 +1,12 @@
+Final Report Notes
+==================
+
+Best sentiment model: BERT-base
+Best sentiment Macro-F1: 0.8791084457011126
+
+Best sarcasm model: BERT-base
+Best sarcasm Macro-F1: 0.6938112438000104
+
+Important observation:
+BERT-base performs better than classical ML baselines on both sentiment and sarcasm classification.
+Sarcasm detection is harder than sentiment classification, especially for the sarcastic class.

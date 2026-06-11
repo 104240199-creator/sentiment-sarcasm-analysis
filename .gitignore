@@ -1,5 +1,13 @@
 .venv/
-results_deberta/
-data/*.csv
+__pycache__/
+.ipynb_checkpoints/
+
+outputs/models/
+wandb/
+
 *.pt
+*.pth
+*.bin
 *.safetensors
+
+.DS_Store
